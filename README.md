@@ -10,10 +10,7 @@ A **Streamlit web application** that predicts the likelihood of diabetes based o
 - Easy-to-use interface suitable for demonstration or education
 - Includes edge-case tests for borderline patients
 
-## Demo
 
-![App Screenshot](screenshot.png)  
-_Live app_: [Streamlit Deployment Link](https://share.streamlit.io/yourusername/diabetes_app/main/app.py)
 
 ## Getting Started
 
